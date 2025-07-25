@@ -1,2 +1,7 @@
-# heart-disease-classifier
-End-to-end ML project for binary classification of heart disease presence based on patient features.
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=0.24.2
+jupyterlab>=3.0.0
+
